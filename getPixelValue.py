@@ -1,7 +1,7 @@
 import rasterio
 
 habitatDict = {
-    0:"water", 
+    0:"Other", 
     100:"Forest",
     200:"Savanna",
     300:"Shrubland",

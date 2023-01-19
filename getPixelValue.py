@@ -9,10 +9,10 @@ habitatDict = {
     500:"Wetlands (inland)",
     600:"Rocky Areas",
     800:"Desert",
-    900:"Marine - Neritic",
-    1000:"Marine - Oceanic",
-    1100:"Marine - Deep Ocean Floor",
-    1200:"Marine - Intertidal",
+    900:"Neritic",
+    1000:"Oceanic",
+    1100:"Deep Ocean Floor",
+    1200:"Intertidal",
     1400:"Artificial - Terrestrial"}
 
 
